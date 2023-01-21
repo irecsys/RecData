@@ -27,8 +27,8 @@ If you used this data for the purpose of research, please cite the following pub
  - group.csv   
    columns: GroupID, UserID  
    description: the compositions of groups
- - group_size.csv   -
-   columns: GroupID, Size  
+ - group_size.csv  
+   columns: GroupID, Size   
    description: the number of students in each group
  - group_ratings.csv   
    columns: GroupID, Item, Rating, App, Data, Ease, Class, Semester, Lockdown  
