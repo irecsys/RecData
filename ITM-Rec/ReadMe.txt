@@ -30,7 +30,7 @@ If you used this data for the purpose of research, please cite the following pub
  - group_size.csv
    columns: GroupID, Size
    description: the number of students in each group
- - group_size.csv
+ - group_ratings.csv
    columns: GroupID, Item, Rating, App, Data, Ease, Class, Semester, Lockdown
    description: Ratings on items given by groups, rather than individuals
 
