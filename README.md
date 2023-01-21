@@ -1,4 +1,5 @@
-# RecData: A List of Data Sets for Research on Recommender Systems
+# RecData
+A List of Data Sets for Research on Recommender Systems
 ## Table of Contents
 
 * ITM-Rec: An Open Data Set for Educational Recommender Systems
