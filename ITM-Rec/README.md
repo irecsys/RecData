@@ -3,7 +3,7 @@
 ITM-Rec data sets including student and group preferences on the topics of final projects in data base and data science classes, and it was collected from student questionnaires at the ITM department, Illinois Institute of Technology, USA. It can be utilized for the purpose of developping and exmining different educational recommender systems (RS), e.g., context-aware RS, multi-criteria RS, group RS, and RS with integrated information, such as multi-criteria based context-aware RS, context-aware based group RS, and so forth.
 
 For more information, you can refer to the two publications below:
- - Yong Zheng. "ITM-Rec: An Open Data Set for Educational Recommender Systems". Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK), Arlington, TX, USA, March 13-17, 2023
+ - Yong Zheng. "[ITM-Rec: An Open Data Set for Educational Recommender Systems](https://github.com/irecsys/RecData/blob/main/ITM-Rec/ITM-Rec_LAK23.pdf)". Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK), Arlington, TX, USA, March 13-17, 2023
  - Yong Zheng. "Personality-Aware Decision Making In Educational Learning", Proceedings of the 23rd ACM Conference on Intelligent User Interfaces (ACM IUI), Tokyo, Japan, March 7-11, 2018
  
 Notes: Students' personality traits were not disclosed in this data set, due to privacy concerns.
@@ -11,7 +11,7 @@ Notes: Students' personality traits were not disclosed in this data set, due to 
 ## Citations
 
 If you used this data for the purpose of research, please cite the following publications:
- - Yong Zheng. "ITM-Rec: An Open Data Set for Educational Recommender Systems". Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK), Arlington, TX, USA, March 13-17, 2023
+ - Yong Zheng. "[ITM-Rec: An Open Data Set for Educational Recommender Systems](https://github.com/irecsys/RecData/blob/main/ITM-Rec/ITM-Rec_LAK23.pdf)". Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK), Arlington, TX, USA, March 13-17, 2023
 
 ## File Descriptions
 
