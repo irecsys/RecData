@@ -12,6 +12,15 @@ Notes: Students' personality traits were not disclosed in this data set, due to 
 
 If you used this data for the purpose of research, please cite the following publications:
  - Yong Zheng. "[ITM-Rec: An Open Data Set for Educational Recommender Systems](https://github.com/irecsys/RecData/blob/main/ITM-Rec/ITM-Rec_LAK23.pdf)". Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK), Arlington, TX, USA, March 13-17, 2023
+ 
+```
+@inproceedings{zheng2023itm,
+  title={ITM-Rec: An open data set for educational recommender systems},
+  author={Zheng, Yong},
+  booktitle={Companion Proceedings of the 13th International Conference on Learning Analytics & Knowledge (LAK)},
+  year={2023}
+}
+```
 
 ## File Descriptions
 
