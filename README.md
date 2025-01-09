@@ -3,6 +3,7 @@ A List of Data Sets for Research on Recommender Systems
 ## Table of Contents
 
 * ITM-Rec: An Open Data Set for Educational Recommender Systems
+* OpenTable: A restaurant data with multi-criteria ratings
 * Data Sets for Context-Aware Recommender Systems
   * Movies: DePaul Movie data
   * Mobile Apps: Frappe data
