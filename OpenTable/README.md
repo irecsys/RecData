@@ -8,7 +8,8 @@ The data set can be used for both traditional recommendations and multi-criteria
 
 ## Special Notes
 
-While working on web crawling for OpenTable.com, we found that HTML resources contained usernames instead of UserIDs. Occasionally, anonymous reviews used a default username, such as "Unknown user." To assign UserIDs, we treated the combination of username and city as a unique user. However, for entries with the default "Unknown user" username, we assigned the same ID. This explains why you might see multiple entries with the same <user, item> pair but different ratings.
+- While working on web crawling for OpenTable.com, we found that HTML resources contained usernames instead of UserIDs. Occasionally, anonymous reviews used a default username, such as "Unknown user." To assign UserIDs, we treated the combination of username and city as a unique user. However, for entries with the default "Unknown user" username, we assigned the same ID. This explains why you might see multiple entries with the same <user, item> pair but different ratings.
+- We provide the opentable_cleaned.csv file, where we removed duplicated entries and only include the last entry associated with the unique <user, item> pair in the data set.
 
 ## Citations
 
